@@ -12,10 +12,10 @@
   <rect class="bg" width="100%" height="100%" rx="0"/>
   <g transform="translate(20,20)">
     <rect class="card" x="0" y="0" width="560" height="240" rx="12"/>
-    <text class="title" x="24" y="38">Alamar, Havana — 2026-05-09 03:45</text>
+    <text class="title" x="24" y="38">Alamar, Havana — 2026-05-09 06:00</text>
     <text class="emoji" x="400" y="110">🌤️</text>
-    <text class="temp" x="110" y="110">25.8 °C</text>
-    <text class="meta" x="24" y="160">Partly cloudy — Wind: 8.3 km/h</text>
+    <text class="temp" x="110" y="110">24.9 °C</text>
+    <text class="meta" x="24" y="160">Partly cloudy — Wind: 6.4 km/h</text>
     <text class="meta" x="24" y="185">Max 32.2 °C / Min 24.8 °C  •  Precip 3.2 mm</text>
     <text class="foot" x="24" y="232">Source: Open-Meteo</text>
   </g>
