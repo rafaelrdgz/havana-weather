@@ -42350,3 +42350,19 @@ _Source: Open-Meteo API_
 
 ---
 
+**2026-11-25 18:00 — Alamar, Havana (Cuba)**
+
+⛈️ Thunderstorm
+
+Now: 23.3 °C (measured at 18:00)
+
+Max/Min today: 24.9 °C / 22.2 °C
+
+Precipitation (today): 63.6 mm
+
+Wind speed: 6.2 km/h
+
+_Source: Open-Meteo API_
+
+---
+
